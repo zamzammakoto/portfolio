@@ -4,7 +4,7 @@ h1{
 
 }
 body{
-  background-color: pink;
+  background-color: purple;
 
 }
 h2{
@@ -17,4 +17,11 @@ img {
     width: 40%;
     border-radius: 50%;
     height: auto;
+}
+h3{
+  color:brown;
+}
+h4{
+  font-style: italic;
+  color: orange;
 }
